@@ -151,6 +151,7 @@ Using simple yet powerful SQL analytics, this project uncovers valuable trends h
 ✍ Author
 
 Aman Banothe
+
 📎 LinkedIn : https://www.linkedin.com/in/aman-banothe-5174ba223/
 
 🧠 Data Analyst | Power BI | MySQL | Tableau | Python
