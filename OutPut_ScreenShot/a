@@ -1,1 +1,29 @@
+🔍 Key SQL Queries and Insights
+
+1. Overall Attrition Rate
+2. Attrition by Job Role
+3. Attrition by Age Group
+4. Impact of Overtime on Attrition
+5. Attrition by Distance from Home
+6. Monthly Income vs Attrition (Income brackets)
+7. Attrition by Department
+8. Job Role vs Monthly Income
+9. Attrition by Education Level
+10. Total Working Years vs Attrition
+11. Years at Company Grouped
+12. Performance Rating vs Attrition
+13. High Risk Employees (Low Income + High Distance + Overtime)
+
+Advanced analyze
+
+14 Which combination of Job Role & Department shows highest attrition?
+15. Compare average tenure (YearsAtCompany) of employees who left vs stayed
+16. Attrition Risk Score (Custom Score Calculation)
+17. Employees with High Performance but Still Left
+18. Average Income vs Years of Experience (Working Years)
+19. Attrition by Distance Buckets
+20. Correlation between Environment Satisfaction & Attrition
+21. Cohort Analysis: Who joined <2 years ago and already left?
+22. Are young employees leaving more frequently?
+23. Employee Retention Ratio by Job Role
 
