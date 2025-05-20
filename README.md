@@ -107,7 +107,7 @@ LIMIT 5;
 - Cohort Analysis: Who joined <2 years ago and already left?
 - Are young employees leaving more frequently?
 - Employee Retention Ratio by Job Role
-
+  
 ---
 
 📌 Key Insights
@@ -122,7 +122,7 @@ LIMIT 5;
 - Useful for HR compensation benchmarking.
 - Helps HR with location-based working policy (WFH/flex commute).
 - Poor workplace experience often correlates with employee churn.
-- 
+  
 ---
 
 ✅ Conclusion
