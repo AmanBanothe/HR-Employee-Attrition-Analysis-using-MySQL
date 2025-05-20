@@ -30,7 +30,7 @@ This project is a comprehensive HR analytics case study using MySQL, based on IB
 - Segment high-risk employee groups.
 - Suggest actionable retention strategies using data.
 
-.
+---
 
 🔍 Key SQL Queries and Insights
 
@@ -108,6 +108,8 @@ LIMIT 5;
 - Are young employees leaving more frequently?
 - Employee Retention Ratio by Job Role
 
+---
+
 📌 Key Insights
 - OverTime is a strong attrition driver.
 - Low-income and high-distance employees show higher turnover.
@@ -120,10 +122,14 @@ LIMIT 5;
 - Useful for HR compensation benchmarking.
 - Helps HR with location-based working policy (WFH/flex commute).
 - Poor workplace experience often correlates with employee churn.
+- 
+---
 
 ✅ Conclusion
 
 Using simple yet powerful SQL analytics, this project uncovers valuable trends hidden in HR data. The goal is to help HR departments identify, understand, and act on attrition patterns — improving employee engagement and reducing talent loss.
+
+---
 
 📁 Project Structure
 
@@ -139,6 +145,8 @@ Using simple yet powerful SQL analytics, this project uncovers valuable trends h
  
  ┣ 📄 README.md
 
+---
+---
 
 ✍ Author
 
@@ -149,7 +157,10 @@ Aman Banothe
 
 
 
-⭐ Bonus
+
+
+
+⭐
 Want to go further? Build a Power BI or Tableau dashboard from this dataset and add a short case-study video or presentation to your portfolio.
 
 ---
